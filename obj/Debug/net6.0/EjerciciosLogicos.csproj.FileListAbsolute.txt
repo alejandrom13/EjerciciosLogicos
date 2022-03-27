@@ -1,0 +1,15 @@
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\bin\Debug\net6.0\EjerciciosLogicos.exe
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\bin\Debug\net6.0\EjerciciosLogicos.deps.json
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\bin\Debug\net6.0\EjerciciosLogicos.runtimeconfig.json
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\bin\Debug\net6.0\EjerciciosLogicos.dll
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\bin\Debug\net6.0\EjerciciosLogicos.pdb
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\obj\Debug\net6.0\EjerciciosLogicos.csproj.AssemblyReference.cache
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\obj\Debug\net6.0\EjerciciosLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\obj\Debug\net6.0\EjerciciosLogicos.AssemblyInfoInputs.cache
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\obj\Debug\net6.0\EjerciciosLogicos.AssemblyInfo.cs
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\obj\Debug\net6.0\EjerciciosLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\obj\Debug\net6.0\EjerciciosLogicos.dll
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\obj\Debug\net6.0\refint\EjerciciosLogicos.dll
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\obj\Debug\net6.0\EjerciciosLogicos.pdb
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\obj\Debug\net6.0\EjerciciosLogicos.genruntimeconfig.cache
+C:\Users\Alejandro\RiderProjects\EjerciciosLogicos\obj\Debug\net6.0\ref\EjerciciosLogicos.dll
