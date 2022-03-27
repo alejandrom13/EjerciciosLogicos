@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\RiderProjects\\EjerciciosLogicos\\EjerciciosLogicos.csproj",
+      "projectUniqueName": "C:\\repos\\EjerciciosLogicos\\EjerciciosLogicos.csproj",
       "projectName": "EjerciciosLogicos",
-      "projectPath": "C:\\Users\\Alejandro\\RiderProjects\\EjerciciosLogicos\\EjerciciosLogicos.csproj",
+      "projectPath": "C:\\repos\\EjerciciosLogicos\\EjerciciosLogicos.csproj",
       "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandro\\RiderProjects\\EjerciciosLogicos\\obj\\",
+      "outputPath": "C:\\repos\\EjerciciosLogicos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
